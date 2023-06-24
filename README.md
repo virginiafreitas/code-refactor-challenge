@@ -14,16 +14,15 @@ The application displays the Horiseon website after improved accessibility and s
  - fixed bugs
 
 ### Installation
+
 https://github.com/virginiafreitas/code-refactor-challenge
 
 #### Usage
  - Open the 'index.html' file in the browser
- - 
- - 
+ - ![website screenshot](https://github.com/virginiafreitas/code-refactor-challenge/assets/137131281/228fff49-42a4-4fcc-8471-404cff8dfbc0)
 
+##### Application Deployment:
+ - https://virginiafreitas.github.io/code-refactor-challenge/
 
-##### Contributions
-
-Application deployment:
-Gitbub repo URL:
-
+###### Contributions:
+- Gitbub repo URL: received help from Sonam Sherpa, Andy Godoy, Samuel Thomas, Stephanie Lenorovitz, Lainey Creighton.
